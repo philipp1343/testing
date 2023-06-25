@@ -1,7 +1,11 @@
 
 #include <iostream>
 
+void helloWorld(){
+std::cout << "Hello World!";
+};
+
 int main() {
-    std::cout << "Hello World!";
+    helloWorld();
     return 0;
 }
