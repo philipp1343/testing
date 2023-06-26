@@ -2,7 +2,7 @@
 
 int main(){
 
-int num2 = 22;
+int num2 = 43;
 int num;
 return 0;
 
