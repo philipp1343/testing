@@ -4,5 +4,5 @@ void helloWorld(){
 std::cout << "Hello World xddddd!";
 std::cout << "\n yolo mama mia";
 //skraaaaa
-//hello my guy
+//hello my guy : )
 };
